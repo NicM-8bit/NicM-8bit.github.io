@@ -1,0 +1,6 @@
+title: Nicolas ePortfolio
+description: The initial version of my ePortfolio, a repository to showcase examples of my improvement in computer science concepts.
+url: "https://NicM-8bit.github.io"
+baseurl: ""
+
+theme: jekyll-theme-minimal
