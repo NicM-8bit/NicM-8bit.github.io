@@ -8,6 +8,9 @@ This artifact demonstrates improvements in software design and engineering.
 
 ## Code Review Video
 
-<video width="720" controls>
-  <source src="/assets/videos/code-review.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/FW6PZp_yFkg"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
