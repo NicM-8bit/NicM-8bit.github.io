@@ -21,4 +21,4 @@ A Java-based Android application that allows users to create, search, and filter
 
 ### Source Code
 
-[Download the complete Android Studio project (.zip)](assets/EventTracker.zip)
+[Download the complete Android Studio project (.zip)](Assets/EventTracker.zip)
