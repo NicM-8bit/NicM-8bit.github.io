@@ -14,3 +14,11 @@ title="YouTube video player"
 frameborder="0"
 allowfullscreen>
 </iframe>
+
+## Event Tracker Android Application
+
+A Java-based Android application that allows users to create, search, and filter events using SQLite storage.
+
+### Source Code
+
+[Download the complete Android Studio project (.zip)](assets/EventTracker.zip)
