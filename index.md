@@ -4,10 +4,6 @@ During my computer science program and this class, I have often felt like I was 
 
 The artifact I utilized here wasn't my favorite to work on, and I hardly understood it most of the time I was working on it, but despite that I was still able to get various different advancements that led to it being a better feeling application overall. It was an event tracker application that was made for Android during my time in CS360.
 
-## Event Tracker Android Application
-
-This artifact demonstrates improvements in software design and engineering.
-
 ## Code Review Video
 
 <iframe width="560" height="315"
