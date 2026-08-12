@@ -27,6 +27,8 @@ A Java-based Android application that allows users to create, search, and filter
 
 ### Source Code & narratives
 
-[Download the narratives (.zip)](Assets/EventTracker.zip)
+[Download the narratives (.zip)](Assets/narratives.zip)
+
+[Download the initial Android Studio project (.zip)](Assets/EventTracker.zip)
 
 [Download the complete Android Studio project (.zip)](Assets/EventTracker.zip)
